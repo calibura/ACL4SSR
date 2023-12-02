@@ -57,6 +57,8 @@ DOMAIN-KEYWORD,telegram
 DOMAIN-KEYWORD,twitter
 DOMAIN-KEYWORD,whatsapp
 DOMAIN-KEYWORD,youtube
+DOMAIN-KEYWORD,hoyoverse
+DOMAIN-KEYWORD,docker
 
 # GFW list
 DOMAIN-SUFFIX,gfwlist.start
